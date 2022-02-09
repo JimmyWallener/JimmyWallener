@@ -5,7 +5,7 @@
   <a href="https://twitter.com/JWallener"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?JimmyWallener&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=JimmyWallener&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="paragraph" align="center"><h3>Hi there 👋</h3></div>
@@ -46,4 +46,5 @@ I am a junior developer from sweden
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?JimmyWallener&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=JimmyWallener&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWallener)](https://github.com/JimmyWallener/github-readme-stats)
