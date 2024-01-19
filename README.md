@@ -19,7 +19,7 @@
 ## About me:
 I am a junior developer from sweden
 
-- 🔭 I’m currently working on getting a degree as frontend developer and have a degree as java developer
+- 🔭 I’m currently working on getting a degree as c++ embedded systems developer and have a degree as java and front-end developer
 - 🌱 I’m currently unemployed and looking for a job as a developer.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-wallener/)
 - 😄 Pronouns: he/him
