@@ -48,8 +48,8 @@ I am a junior developer from sweden
 ---
 
 ### :fire: My Stats:
-<div>
-![JimmyWallener's Stats](https://github-readme-stats.vercel.app/api?username=JimmyWallener&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)&nbsp;
-![JimmyWallener's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimmyWallener&theme=highcontrast&hide_border=true)&nbsp;
+
+![JimmyWallener's Stats](https://github-readme-stats.vercel.app/api?username=JimmyWallener&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![JimmyWallener's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimmyWallener&theme=highcontrast&hide_border=true)
 ![JimmyWallener's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWallener&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-</div>
+
